@@ -70,22 +70,13 @@
 
 ## 📊 GitHub Profile Stats
 
-![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=radical&hide_border=true)
+![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=radical&no-frame=true&margin-w=15)
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/nabilatajrin/nabilatajrin/output/github-contribution-grid-snake.svg)
-
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15&row=1&column=3)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15)
 
 ## 🐍 Contribution Snake
 
