@@ -1,68 +1,89 @@
-<h1 align="center">Hi, I'm Nabila Tajrin👋</h1>
-<h3 align="center">Aspiring AI Research Scientist | M.Sc. Mathematics & Data Science | Computer Vision & Generative AI Enthusiast</h3>
+# Hi! It's Nabila Tajrin 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nabila-tajrin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sites.google.com/view/nabila-tajrin">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@YOUR-MEDIUM-HANDLE">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+**Aspiring ML Engineer | AI Researcher | Data Analyst**
+
+[Google Site](https://sites.google.com/view/nabila-tajrin) | 
+[LinkedIn](https://www.linkedin.com/in/nabila-tajrin) | 
+[GitHub](https://github.com/nabilatajrin) | 
+[Medium](https://medium.com/@nabilatajrin) | 
+[Kaggle](https://www.kaggle.com/nabilatajrinbristy)
 
 ---
 
-### 🧭 About Me
+## About Me
 
-- 🎓 First-year **M.Sc. in Mathematics and Data Science** student at **MIT World Peace University (MIT-WPU)**, Pune
-- 🏛️ Former Architect (B.Arch) turned Data Scientist — bringing strong analytical thinking from design to AI
-- 💼 **Data Analyst Intern** at Bluestock Fintech — building ETL pipelines and data infrastructure
-- 🔬 Contributing to AI research projects with **Omdena**
-- 🌱 Passionate about **Computer Vision (YOLO)**, **Generative AI**, **LLMs**, and ethical/human-aligned AI
-- ✍️ Writing technical articles on Medium to explain complex ML concepts clearly
+* 💼 Data Analyst Intern at Bluestock Fintech — building ETL pipelines and data infrastructure
+* 🔬 Contributing to AI research projects with Omdena
+* 🌱 Passionate about ethical AI and human-aligned AI research — exploring how AI systems can be built responsibly and safely
+* ✍️ Writing technical articles on Medium to explain complex ML concepts clearly
 
 ---
 
-### 🛠️ Tech Stack
+## Research Interests
 
-**Languages & Core Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**AI/ML**  
-- Computer Vision (YOLO, OpenCV)  
-- Large Language Models & LangChain  
-- Scikit-learn, NumPy, Pandas, Matplotlib  
-- PyTorch / TensorFlow (in progress)  
-- ETL Pipelines, Data Visualization, Jupyter, SQLite
+- Ethical AI
+- Human-Aligned AI
+- Responsible AI Development
+- AI for Social Good
 
 ---
 
-### 🔥 Featured Projects
+## Technical Skills
 
-- **[Construction Safety Gear Detection using YOLO](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)** — Real-time safety equipment detection system
-- **[LangChain LLM Applications](https://github.com/nabilatajrin/LangChain-for-LLM-application-development)** — Building intelligent agents and RAG systems
-- **[Generative AI with Large Language Models](https://github.com/nabilatajrin/generative-AI-with-large-language-models)** — Prompt engineering and generative applications
-- **[Mutual Fund Analytics Pipeline](https://github.com/nabilatajrin/nifty100_etl)** — End-to-end ETL, SQLite database & EDA
+### Programming & Libraries
+- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Languages**: Python, SQL, Java, C
+- **Web**: HTML5, CSS, Flask
+- **Data Tools**: ETL Pipelines, Data Warehousing
+- **Databases**: MySQL, SQLite
+
+### Tools & Platforms
+- PyCharm, Jupyter Notebook, Git, Linux
+- Android SDK, AutoCAD
+
+### Soft Skills
+- Quick Learner
+- Technical Writing
+- Team Collaboration
+- Problem Solving
 
 ---
 
-### 📊 GitHub Stats
+## Highlights & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilatajrin&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
+- **Data Analyst Intern** at Bluestock Fintech
+- Contributing to AI research with **Omdena**
+- **Consolation Prize** for Innovation in Methodology — GI-AI-SC 2025 (Global Interdisciplinary AI Student Competition)
+- Worked with Marina Tabassum Architects
+- Ranked **6th** in PGDIT, IIT, University of Dhaka
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect if you want to talk about AI, research, or collaboration opportunities.</i></p>
+## Featured Projects
+
+- [Machine Learning Engineering](https://github.com/nabilatajrin/machine-learning-engineering)
+- [LangChain Chat with Data](https://github.com/nabilatajrin/LangChain-chat-with-data)
+- [Generative AI Applications](https://github.com/nabilatajrin/generative-AI)
+- [Construction Safety Gear Detection (YOLO)](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)
+
+---
+
+## 📊 GitHub Profile Stats
+
+![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=radical&no-frame=true&margin-w=15)
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/nabilatajrin/nabilatajrin/output/github-contribution-grid-snake.svg)
+
+---
+
+## Contact
+
+**Best way to reach me**: [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) or through my [Google Site](https://sites.google.com/view/nabila-tajrin)
+
+*Open to collaborations in AI/ML, Data Engineering, and responsible AI projects.*
