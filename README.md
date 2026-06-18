@@ -76,7 +76,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15&row=1&column=3)
 
 ## 🐍 Contribution Snake
 
