@@ -11,7 +11,6 @@
 ## About Me
 
 * 💼 Data Analyst Intern at Bluestock Fintech — building ETL pipelines and data infrastructure
-* 🔬 Contributing to AI research projects with Omdena
 * 🌱 Passionate about ethical AI and human-aligned AI research — exploring how AI systems can be built responsibly and safely
 * ✍️ Writing technical articles on Medium to explain complex ML concepts clearly
 
