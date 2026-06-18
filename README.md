@@ -1,9 +1,12 @@
-<h1 align="center">Hi, I'm Nabila Tajrin Bristy (Rain) 👋</h1>
+<h1 align="center">Hi, I'm Nabila Tajrin👋</h1>
 <h3 align="center">Aspiring AI Research Scientist | M.Sc. Mathematics & Data Science | Computer Vision & Generative AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabila-tajrin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/view/nabila-tajrin">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="https://medium.com/@YOUR-MEDIUM-HANDLE">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -59,14 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
-
----
-
-### 🎯 Currently Working On
-
-- Preparing for **IELTS** and applying for research opportunities (including OIST)
-- Strengthening **MLOps** and model deployment skills
-- Open to **research collaborations**, **internships**, and conversations in AI/ML
 
 ---
 
