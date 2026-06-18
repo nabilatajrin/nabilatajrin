@@ -67,15 +67,6 @@
 
 ---
 
-### 🎯 Currently Working On
-
-- Advancing **Computer Vision** and **MLOps** skills
-- Preparing for **IELTS** + applying to research programs (OIST, etc.)
-- Exploring **Ethical AI** and human-aligned systems
-- Open to **research collaborations**, **internships**, and technical discussions
-
----
-
 <div align="center">
   <i>Always learning • Building AI systems from first principles • Open to connect!</i>
 </div>
