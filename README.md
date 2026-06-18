@@ -1,91 +1,81 @@
-# Hi! It's Nabila Tajrin 👋
+<div align="center">
+  <h1>Hi, I'm Nabila Tajrin Bristy (Rain) 👋</h1>
+  <h3>Aspiring AI Research Scientist | Computer Vision • LLMs • MLOps</h3>
+</div>
 
-**Aspiring ML Engineer | AI Researcher | Former Architect**
-
-[Google Site](https://sites.google.com/view/nabila-tajrin) | 
-[LinkedIn](https://www.linkedin.com/in/nabila-tajrin) | 
-[GitHub](https://github.com/nabilatajrin) | 
-[Kaggle](https://www.kaggle.com/nabilatajrinbristy)
-
----
-
-## About Me
-
-Over the years, I have cultivated a diverse skill set encompassing various facets of technology, including **Machine Learning**, **Data Analysis**, **Data Preprocessing**, **Android Application Development**, **UI Design**, software maintenance, testing, and documentation.
-
-The transformative impact of Machine Learning has been particularly motivating for me. I am passionate about conducting research in AI to address societal challenges, promote economic equity, and create inclusive opportunities.
-
-**My goal**: Leverage AI and technology to reduce resource wastage, streamline processes, and simplify lives.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabila-tajrin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@YOUR-MEDIUM-HANDLE">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Research Interests
+### 🧭 About Me
 
-- Ethical AI
-- Deep Reinforcement Learning
-- Causal AI & Game Theory
-- Leveraging AI for Economic Equity and Poverty Reduction
-
-*(I continue to refine and narrow my focus within these areas)*
-
----
-
-## Technical Skills
-
-### Programming & Libraries
-- **Python** (NumPy, Pandas, Matplotlib, Scikit-learn, etc.)
-- **Languages**: Python, C, Java
-- **Web**: HTML5, CSS, XML, Flask
-- **Databases**: SQL, MySQL, SQLite
-- **Others**: EDA, Web Scraping, AutoCAD
-
-### Tools & Platforms
-- PyCharm, Android SDK, NetBeans, Code::Blocks
-- Linux, Windows
-
-### Soft Skills
-- Adaptability
-- Leadership & Management
-- Teamwork & Collaboration
-- Strong Interpersonal Skills
-- Quick Learner
+- 🎓 **M.Sc. Mathematics & Data Science** (First Year) at **MIT World Peace University (MIT-WPU)**
+- 🏛️ Transitioned from **Architecture (B.Arch)** → **PGDIT (IIT, University of Dhaka)** → **AI/ML Research**
+- 💼 **Data Analyst Intern** @ Bluestock Fintech — Building ETL pipelines & data infrastructure
+- 🔬 Active contributor in **Omdena** AI research projects
+- 🌱 Currently deepening **Computer Vision**, **Generative AI**, and **MLOps**
 
 ---
 
-## Highlights & Achievements
+### 🛠️ Technical Skills
 
-### Professional
-- Developed offline Android apps for rural healthcare (expecting mothers) and women entrepreneurship.
-- Worked with **Marina Tabassum Architects** (renowned architect featured in Time's 100 Most Influential People).
-- 12.5/10 evaluation score during first IT role at Dnet.
-- 2nd highest score in final project (PGDIT, IIT, University of Dhaka) — ranked **6th** in class.
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### AI & Competitions
-- **Consolation Prize** for Innovation in Methodology — GI-AI-SC 2025 (Global Interdisciplinary AI Student Competition, MIT-WPU).
-- Campus Ambassador at MIT World Peace University, India.
-
-### Others
-- Best group project in B.Architecture (Cultural Complex at Ramna Botomul).
-- Multiple Coursera courses + paid UX feedback interview.
-- Articles on Bayes’ Decision Theory, Matrices, and Vectors in ML.
+**Core ML/AI**
+- **Computer Vision**: YOLO (YOLOv8/v5), OpenCV, Image Processing
+- **LLMs & Generative AI**: LangChain, RAG, Prompt Engineering, Hugging Face
+- **Classical ML**: Scikit-learn, Linear Algebra, Statistical Modeling, NumPy, Pandas
+- **Tools**: Git, Docker (learning), Gradio, Streamlit, Jupyter, GitHub Actions
+- **Data Engineering**: ETL Pipelines, SQLite, Data Visualization
 
 ---
 
-## Featured Projects
+### 🔥 Featured Projects
 
-- [Machine Learning Engineering](https://github.com/nabilatajrin/machine-learning-engineering)
-- [LangChain Chat with Data](https://github.com/nabilatajrin/LangChain-chat-with-data)
-- [Generative AI Applications](https://github.com/nabilatajrin/generative-AI)
-- [Construction Safety Gear Detection (YOLO)](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)
-- More projects available on GitHub
-
----
-
-## Contact
-
-- **Best way**: Message me on [LinkedIn](https://www.linkedin.com/in/nabila-tajrin)
-- Or visit my [Google Site](https://sites.google.com/view/nabila-tajrin)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Construction Safety Gear Detection](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)** | Real-time multi-class safety equipment detection system for construction sites | **YOLOv8**, OpenCV, Python |
+| **[LangChain LLM Applications](https://github.com/nabilatajrin/LangChain-for-LLM-application-development)** | Intelligent agents, RAG pipelines and chat-with-data systems | **LangChain**, LLMs, Vector DBs |
+| **[Generative AI with Large Language Models](https://github.com/nabilatajrin/generative-AI-with-large-language-models)** | Advanced prompt engineering and generative applications | OpenAI, Hugging Face, LangChain |
+| **[Mutual Fund Analytics ETL Pipeline](https://github.com/nabilatajrin/nifty100_etl)** | End-to-end data pipeline with SQLite database design & EDA | Python, Pandas, SQLite |
 
 ---
 
-*Open to collaborations in AI/ML, research, and impactful tech projects.*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilatajrin&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🎯 Currently Working On
+
+- Advancing **Computer Vision** and **MLOps** skills
+- Preparing for **IELTS** + applying to research programs (OIST, etc.)
+- Exploring **Ethical AI** and human-aligned systems
+- Open to **research collaborations**, **internships**, and technical discussions
+
+---
+
+<div align="center">
+  <i>Always learning • Building AI systems from first principles • Open to connect!</i>
+</div>
