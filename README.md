@@ -74,11 +74,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=radical&no-frame=true&margin-w=15)
 
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/nabilatajrin/nabilatajrin/output/github-contribution-grid-snake.svg)
+## 🐍 My Contributions
+![Snake Animation](https://raw.githubusercontent.com/nabilatajrin/nabilatajrin/output/github-contribution-grid-snake.svg)
 
 ---
 
