@@ -5,7 +5,6 @@
 [Google Site](https://sites.google.com/view/nabila-tajrin) | 
 [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) | 
 [Medium](https://medium.com/@nabilatajrin) | 
-[Kaggle](https://www.kaggle.com/nabilatajrinbristy)
 
 ---
 
