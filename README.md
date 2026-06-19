@@ -1,6 +1,6 @@
 # Hi! It's Nabila Tajrin 👋
 
-**Aspiring ML Engineer | AI Researcher | Data Analyst**
+**Aspiring ML Engineer | AI Researcher**
 
 [Google Site](https://sites.google.com/view/nabila-tajrin) | 
 [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) | 
