@@ -1,89 +1,36 @@
 # Hi! It's Nabila Tajrin 👋
 
-**Aspiring AI Engineer & Researcher**
+**Aspiring AI Engineer & Researcher** | Python • Data Engineering • Computer Vision • Generative AI
 
-[Google Site](https://sites.google.com/view/nabila-tajrin) | 
-[LinkedIn](https://www.linkedin.com/in/nabila-tajrin) | 
-[Medium](https://medium.com/@nabilatajrin) | 
+[Google Site](https://sites.google.com/view/nabila-tajrin) • [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) • [Medium](https://medium.com/@nabilatajrin)
 
 ---
 
-## About Me
+💼 **Data Analyst Intern** @ Bluestock Fintech (ETL pipelines & data infrastructure)  
+🌱 Passionate about **Ethical AI** & human-aligned AI research  
+✍️ Writing on Medium • Open to collaborations in AI/ML & Data Engineering
 
-* 💼 Data Analyst Intern at Bluestock Fintech — building ETL pipelines and data infrastructure
-* 🌱 Passionate about ethical AI and human-aligned AI research — exploring how AI systems can be built responsibly and safely
-* ✍️ Writing technical articles on Medium to explain complex ML concepts clearly
-* 🐍 Currently focused on **Python**, Data Engineering, Computer Vision, and Generative AI
+**Skills:** Python (Pandas, Scikit-learn, YOLO, LangChain) • SQL • Streamlit • ETL • Computer Vision • RAG
 
----
-
-## Research Interests
-
-- Ethical AI
-- Human-Aligned AI
-- Responsible AI Development
-- AI for Social Good
+**Highlights:** Omdena contributor • GI-AI-SC 2025 Consolation Prize • Ranked 6th in PGDIT (IIT, University of Dhaka)
 
 ---
 
-## Technical Skills
-
-### Programming & Libraries
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Ultralytics YOLO, LangChain)
-- **Languages**: Python, SQL, Java
-- **Web**: HTML5, CSS, Flask, Streamlit
-- **Data Tools**: ETL Pipelines, Data Warehousing, SQLite / MySQL
-- **ML / AI**: Computer Vision (YOLO), RAG, Generative AI
-
-### Tools & Platforms
-- PyCharm, Jupyter Notebook, Git, Linux
-- Streamlit, Gradio
-
-### Soft Skills
-- Quick Learner
-- Technical Writing
-- Team Collaboration
-- Problem Solving
+### 🔥 Featured Projects
+- [**NIFTY 100 ETL Platform**](https://github.com/nabilatajrin/nifty100_etl) — Production ETL + Streamlit financial dashboard
+- [**Construction Safety Gear Detection**](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo) — YOLO PPE detection
+- [**Bluestock MF Capstone**](https://github.com/nabilatajrin/bluestock_mf_capstone) — Mutual fund data pipeline
+- [**LangChain Chat with Data**](https://github.com/nabilatajrin/LangChain-chat-with-data) — RAG applications
 
 ---
 
-## Highlights & Achievements
+### 📊 Stats
 
-- **Data Analyst Intern** at Bluestock Fintech
-- Contributing to AI research with **Omdena**
-- **Consolation Prize** for Innovation in Methodology — GI-AI-SC 2025 (Global Interdisciplinary AI Student Competition)
-- Worked with Marina Tabassum Architects
-- Ranked **6th** in PGDIT, IIT, University of Dhaka
+![Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true&hide_rank=true&include_all_commits=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css&langs_count=6)
 
----
-
-## Featured Projects
-
-- [NIFTY 100 ETL & Financial Intelligence Platform](https://github.com/nabilatajrin/nifty100_etl) — Production-grade ETL + Streamlit dashboard
-- [Construction Safety Gear Detection (YOLO)](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)
-- [Bluestock Mutual Fund Capstone](https://github.com/nabilatajrin/bluestock_mf_capstone)
-- [LangChain Chat with Data](https://github.com/nabilatajrin/LangChain-chat-with-data)
-
----
-
-## 📊 GitHub Profile Stats
-
-![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css&langs_count=6)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15)
-
-## 🐍 Contribution Snake
+### 🐍 Contributions
 
 ![Snake](https://raw.githubusercontent.com/nabilatajrin/nabilatajrin/output/github-contribution-grid-snake.svg)
 
----
-
-## Contact
-
-**Best way to reach me**: [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) or through my [Google Site](https://sites.google.com/view/nabila-tajrin)
-
-*Open to collaborations in AI/ML, Data Engineering, and responsible AI projects.*
+![Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15&column=7)
