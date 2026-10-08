@@ -16,7 +16,7 @@ Focus: Claim verification • NLI-scored claim-evidence graphs • Faithfulness 
 
 **Skills:** Python • Pandas • Scikit-learn • NetworkX • Transformers • LangChain • SQL • Streamlit • YOLO • RAG
 
-**Highlights:** GI-AI-SC 2025 Consolation Prize • Ranked 6th in PGDIT (IIT, University of Dhaka) • Omdena contributor • Worked with Marina Tabassum Architects
+**Highlights:** GI-AI-SC 2025 Consolation Prize • Ranked 6th in PGDIT (IIT, University of Dhaka) • Omdena contributor
 
 ---
 
