@@ -30,6 +30,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true&hide_rank=true&include_all_commits=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css&langs_count=6)
 
+### 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabilatajrin&theme=github&hide_border=true&area=true)
+
 ### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=15&column=7)
