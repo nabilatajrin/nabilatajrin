@@ -13,6 +13,7 @@
 * 💼 Data Analyst Intern at Bluestock Fintech — building ETL pipelines and data infrastructure
 * 🌱 Passionate about ethical AI and human-aligned AI research — exploring how AI systems can be built responsibly and safely
 * ✍️ Writing technical articles on Medium to explain complex ML concepts clearly
+* 🐍 Currently focused on **Python**, Data Engineering, Computer Vision, and Generative AI
 
 ---
 
@@ -28,15 +29,15 @@
 ## Technical Skills
 
 ### Programming & Libraries
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Languages**: Python, SQL, Java, C
-- **Web**: HTML5, CSS, Flask
-- **Data Tools**: ETL Pipelines, Data Warehousing
-- **Databases**: MySQL, SQLite
+- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Ultralytics YOLO, LangChain)
+- **Languages**: Python, SQL, Java
+- **Web**: HTML5, CSS, Flask, Streamlit
+- **Data Tools**: ETL Pipelines, Data Warehousing, SQLite / MySQL
+- **ML / AI**: Computer Vision (YOLO), RAG, Generative AI
 
 ### Tools & Platforms
 - PyCharm, Jupyter Notebook, Git, Linux
-- Android SDK, AutoCAD
+- Streamlit, Gradio
 
 ### Soft Skills
 - Quick Learner
@@ -58,10 +59,10 @@
 
 ## Featured Projects
 
-- [Machine Learning Engineering](https://github.com/nabilatajrin/machine-learning-engineering)
-- [LangChain Chat with Data](https://github.com/nabilatajrin/LangChain-chat-with-data)
-- [Generative AI Applications](https://github.com/nabilatajrin/generative-AI)
+- [NIFTY 100 ETL & Financial Intelligence Platform](https://github.com/nabilatajrin/nifty100_etl) — Production-grade ETL + Streamlit dashboard
 - [Construction Safety Gear Detection (YOLO)](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo)
+- [Bluestock Mutual Fund Capstone](https://github.com/nabilatajrin/bluestock_mf_capstone)
+- [LangChain Chat with Data](https://github.com/nabilatajrin/LangChain-chat-with-data)
 
 ---
 
@@ -69,7 +70,7 @@
 
 ![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css&langs_count=6)
 
 ## 🏆 GitHub Trophies
 
