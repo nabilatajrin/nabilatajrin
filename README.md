@@ -1,9 +1,6 @@
 <div align="center">
 
-# Nabila Tajrin
-
-### AI Engineer & Researcher
-**NLP • Trustworthy AI • Graph Reasoning • Data Engineering**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabila%20Tajrin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Researcher%20%7C%20NLP%20%E2%80%A2%20Trustworthy%20AI%20%E2%80%A2%20Graph%20Reasoning&descSize=14&descAlignY=55" width="100%" />
 
 <br/>
 
@@ -29,7 +26,7 @@ Claim verification • NLI-scored claim-evidence graphs • Faithfulness of expl
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
 
 ### 🏆 Highlights
@@ -77,5 +74,7 @@ Claim verification • NLI-scored claim-evidence graphs • Faithfulness of expl
 
 **Open to collaborations** in NLP • Trustworthy AI • Data Engineering  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/nabila-tajrin)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
