@@ -39,3 +39,14 @@ Focus: Claim verification • NLI-scored claim-evidence graphs • Faithfulness 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=12&column=7)
 
 </div>
+
+---
+
+<div align="center">
+
+**Open to collaborations** in NLP • Trustworthy AI • Data Engineering  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/nabila-tajrin)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
