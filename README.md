@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Profile Stats
 
-![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true)
+![Nabila Tajrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css&langs_count=6)
 
