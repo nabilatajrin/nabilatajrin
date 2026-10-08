@@ -1,16 +1,17 @@
 # Hi! It's Nabila Tajrin 👋
 
-**Aspiring AI Engineer & Researcher** | Python • Data Engineering • Computer Vision • Generative AI
+**Aspiring AI Engineer & Researcher** | NLP • Trustworthy AI • Graph Reasoning • Data Engineering
 
 [Google Site](https://sites.google.com/view/nabila-tajrin) • [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) • [Medium](https://medium.com/@nabilatajrin)
 
 ---
 
 💼 **Data Analyst Intern** @ Bluestock Fintech (ETL pipelines & data infrastructure)  
-🌱 Passionate about **Ethical AI** & human-aligned AI research  
-✍️ Writing on Medium • Open to collaborations in AI/ML & Data Engineering
+🔬 **Current Research (MSc):** Graph-Based Claim and Evidence Verification for Trustworthy and Grounded AI  
+🌱 Focus: Claim verification, NLI-scored claim-evidence graphs, faithfulness of explanations, LLM grounding & RAG factuality  
+✍️ Writing on Medium • Open to collaborations in NLP, Trustworthy AI & Data Engineering
 
-**Skills:** Python (Pandas, Scikit-learn, YOLO, LangChain) • SQL • Streamlit • ETL • Computer Vision • RAG
+**Skills:** Python (Pandas, Scikit-learn, NetworkX, Transformers, LangChain) • SQL • Streamlit • ETL • Computer Vision (YOLO) • RAG
 
 **Highlights:** Omdena contributor • GI-AI-SC 2025 Consolation Prize • Ranked 6th in PGDIT (IIT, University of Dhaka)
 
