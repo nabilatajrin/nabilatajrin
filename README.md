@@ -2,13 +2,15 @@
 
 # Nabila Tajrin
 
-**AI Engineer & Researcher**  
-*NLP • Trustworthy AI • Graph Reasoning • Data Engineering*
+### AI Engineer & Researcher
+**NLP • Trustworthy AI • Graph Reasoning • Data Engineering**
 
-[![Google Site](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/nabila-tajrin)
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/nabila-tajrin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-tajrin)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nabilatajrin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilatajrin)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabilatajrin)
 
 </div>
 
@@ -19,7 +21,16 @@
 Claim verification • NLI-scored claim-evidence graphs • Faithfulness of explanations • LLM grounding & RAG factuality
 
 ### 🛠️ Skills
-`Python` `Pandas` `Scikit-learn` `NetworkX` `Transformers` `LangChain` `SQL` `Streamlit` `ETL` `YOLO` `RAG` `Computer Vision`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF4B4B?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
 
 ### 🏆 Highlights
 - **GI-AI-SC 2025** — Consolation Prize (Innovation in Methodology)
@@ -43,18 +54,20 @@ Claim verification • NLI-scored claim-evidence graphs • Faithfulness of expl
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=default&hide_border=true&hide_rank=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=default&hide_border=true&hide=c%2B%2B,c,html,css,makefile&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=nabilatajrin&show_icons=true&theme=radical&hide_border=true&hide_rank=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilatajrin&layout=compact&theme=radical&hide_border=true&hide=c%2B%2B,c,html,css,makefile&langs_count=6" height="165" />
 
-<br/>
+<br/><br/>
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilatajrin&theme=github&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilatajrin&theme=radical&hide_border=true&area=true" width="100%" />
+
+<br/>
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=light&no-frame=true&margin-w=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nabilatajrin&theme=radical&no-frame=true&margin-w=12&column=7" />
 
 </div>
 
@@ -62,7 +75,7 @@ Claim verification • NLI-scored claim-evidence graphs • Faithfulness of expl
 
 <div align="center">
 
-**Open to collaborations** in NLP, Trustworthy AI, and Data Engineering  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nabila-tajrin)
+**Open to collaborations** in NLP • Trustworthy AI • Data Engineering  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/nabila-tajrin)
 
 </div>
