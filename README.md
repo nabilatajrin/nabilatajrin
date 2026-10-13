@@ -23,9 +23,9 @@ Focus: Claim verification • NLI-scored claim-evidence graphs • Faithfulness 
 ### Featured Projects
 
 - [**NIFTY 100 ETL Platform**](https://github.com/nabilatajrin/nifty100_etl) — Production ETL + Streamlit financial dashboard
-- [**Construction Safety Gear Detection**](https://github.com/nabilatajrin/construction_safety_gears_detection_using_yolo) — YOLO PPE detection
-- [**Bluestock MF Capstone**](https://github.com/nabilatajrin/bluestock_mf_capstone) — Mutual fund data pipeline
-- [**LangChain Chat with Data**](https://github.com/nabilatajrin/LangChain-chat-with-data) — RAG applications
+- [**Construction Safety Gear Detection**](https://github.com/nabilatajrin/construction-safety-gears-detection-yolo) — YOLO PPE detection
+- [**Bluestock MF Capstone**](https://github.com/nabilatajrin/bluestock-mf-capstone) — Mutual fund data pipeline
+- [**LangChain Chat with Data**](https://github.com/nabilatajrin/langchain-chat-with-data) — RAG applications
 
 ---
 
