@@ -2,7 +2,7 @@
 
 # Nabila Tajrin
 
-**AI Engineer & Researcher**  
+**Independent Researcher**  
 Trustworthy AI • Graph Reasoning • Causal AI
 
 [Website](https://sites.google.com/view/nabila-tajrin) • [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) • [Medium](https://medium.com/@nabilatajrin)
