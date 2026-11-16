@@ -3,7 +3,7 @@
 # Nabila Tajrin
 
 **AI Engineer & Researcher**  
-NLP • Trustworthy AI • Graph Reasoning • Data Engineering
+Trustworthy AI • Graph Reasoning • Causal AI
 
 [Website](https://sites.google.com/view/nabila-tajrin) • [LinkedIn](https://www.linkedin.com/in/nabila-tajrin) • [Medium](https://medium.com/@nabilatajrin)
 
